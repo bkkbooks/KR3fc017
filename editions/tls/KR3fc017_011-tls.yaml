@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc017/tls/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫算中𤣥妙無過演段如積幽微莫墟認圗其法奥妙學者鮮能造其微前明五和次辯五較自知優劣也其五較者句股較句弦較股弦較弦較較弦和較併之得一十步自椉得一百步共為二十五段考圗認之
+  hash: sha256:83e83bbb55008bd76068349edf1a5836192e3ac76df4e2840147353788d9f5ec
+metadata:
+  title: 四元玉鑑
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc017.xml
+hash: sha256:65099712c7082bccd8f33284329a5201baa5a937ba17b23ba0add830bbfeec6c

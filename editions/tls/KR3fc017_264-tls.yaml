@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc017/tls/v1/juan/264
+seq: 264
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四元玉鑑
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc017.xml
+hash: sha256:84d9a392ceda69f1baa6d15182568931dbdc62a78db0b1c69c87e418756795b9

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc017/tls/v1/juan/26
+seq: 26
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三才運元今有股弦較除弦和和與直積等只云句弦較除弦較和與句同問弦幾何答曰五步草曰立天元一為句地元一為股人元一為弦三才相配求求得求得三之得今式云式元之式以云式剔而消之二後互隱通式皆人易天位前得得分相消
+  hash: sha256:c10d42f36d0a233d155a3878b8e9239cb3d80a01306dcb72180f0d4f9374ad0c
+metadata:
+  title: 四元玉鑑
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc017.xml
+hash: sha256:d1f35b13150fb386dbaaac04243b04722b440473756d456e45de3fc30e4c82b4

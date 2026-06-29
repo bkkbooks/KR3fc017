@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR3fc017/bkk/v1/markers/26
+seq: 26
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc017_tls_001-p15.s1}
+  - {type: line-break, offset: 0, content: '', id: KX_1_dup8, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: 'tls:seg', offset: 4, content: '', id: KR3fc017_tls_001-p15.s2}
+  - {type: line-break, offset: 4, content: '', id: KX_2_dup9, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg', offset: 23, content: '', id: KR3fc017_tls_001-p15.s3}
+  - {type: line-break, offset: 23, content: '', id: KX_3_dup9, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg', offset: 33, content: '', id: KR3fc017_tls_001-p15.s4}
+  - {type: line-break, offset: 33, content: '', id: KX_4_dup9, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: substitution, offset: 33, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
+  - {type: 'tls:seg', offset: 37, content: '', id: KR3fc017_tls_001-p15.s5}
+  - {type: line-break, offset: 37, content: '', id: KX_5_dup9, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: 'tls:seg', offset: 55, content: '', id: KR3fc017_tls_001-p15.s6}
+  - {type: line-break, offset: 55, content: '', id: KX_6_dup8, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: 'tls:seg', offset: 65, content: '', id: KR3fc017_tls_001-p15.s7}
+  - {type: line-break, offset: 65, content: '', id: KX_7_dup8, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: 'tls:seg', offset: 74, content: '', id: KR3fc017_tls_001-p15.s8}
+  - {type: line-break, offset: 74, content: '', id: KX_8_dup8, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: 'tls:seg', offset: 86, content: '', id: KR3fc017_tls_001-p15.s9}
+  - {type: line-break, offset: 86, content: '', id: KX_9_dup7, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  back: []
+hash: sha256:7c6884df4bca5d195cd80097e2794b09d667149e285388baa2346f30404315a0

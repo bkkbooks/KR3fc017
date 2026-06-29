@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc017/tls/v1/juan/311
+seq: 311
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 亷二千六為正隅十三乗方開之得二步即元數也合問新編四元玉鑑卷下終
+  hash: sha256:d72cd5e7b3a5bd39de228565ff089c9d467c1045381330943bc69fdb6dc3bfbd
+metadata:
+  title: 四元玉鑑
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc017.xml
+hash: sha256:7348495def7b38d2d9f2590788e96242888c80598048fe3ec98bf7ea0f80ef6e
