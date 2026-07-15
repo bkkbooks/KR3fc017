@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 加減鉤深臻逺自民一家之書也方今尊崇算學科目漸興先生是書行將大用扵世有能執此以往則古人格物臻知之學治國平天下之道其在是矣有志扵學者可不服膺此書云大德癸犯上元日臨川前進士莫若序
-  hash: sha256:a5c7cc3d19ee3db15d2a4c3fa05013fde3ae50db7c490a57178314c60f2d7d6f
+  text: 加減鉤深臻逺自民一家之書也方今尊崇算學科目漸興先生是書行將大用于世有能執此以往則古人格物臻知之學治國平天下之道其在是矣有志于學者可不服膺此書云大德癸犯上元日臨川前進士莫若序
+  hash: sha256:e892a8118b29e8bafb3712492555041e074041e5122c17d1eefb2811ff09a3fe
 metadata:
   title: 四元玉鑑
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc017.xml
-hash: sha256:f763b511c9e4341a2e2e63144a69f402d213415d9ca042ca82ef0669548ca73e
+hash: sha256:01981a1c6e561c1b9b71a2391ccc9c65b55af76da15c04b6aaaf7aa44aa72cc8

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 夫算中𤣥妙無過演段如積幽微莫墟認圗其法奥妙學者鮮能造其微前明五和次辯五較自知優劣也其五較者句股較句弦較股弦較弦較較弦和較併之得一十步自椉得一百步共為二十五段考圗認之
-  hash: sha256:83e83bbb55008bd76068349edf1a5836192e3ac76df4e2840147353788d9f5ec
+  text: 夫算中玄妙無過演段如積幽微莫墟認圗其法奧妙學者鮮能造其微前明五和次辨五較自知優劣也其五較者句股較句弦較股弦較弦較較弦和較併之得一十步自乘得一百步共為二十五段考圗認之
+  hash: sha256:c85e24549b5a76e45baa685d4c86cadc8e1a326e7cd3282b1e3ccee43fc1fa4d
 metadata:
   title: 四元玉鑑
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc017.xml
-hash: sha256:65099712c7082bccd8f33284329a5201baa5a937ba17b23ba0add830bbfeec6c
+hash: sha256:370cbb5c87d55de78f9af1e3f53ea9b05a6b26f312f5eed08518d7be1bd1f055
